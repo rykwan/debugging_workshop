@@ -150,7 +150,13 @@ If you continue or step until `i = 7` (the rightmost index, where the right side
 
 ## Try it yourself!
 
-Now that you know what breakpoints and watchpoints are and how to step into, step over, step out, and continue, try it yourself on the buggy code in file lemonadeChange_bug.cpp.
+Now that you know what breakpoints and watchpoints are and how to step into, step over, step out, and continue, try it yourself on some buggy code. For these exercises, it is just for practice and optional: it's not really important whether you can find or fix the bugs in these exercises, just get used to the tools so you can fix your own bugs! For best practice, use the debugger on your own projects and homeworks!
+
+## some buggy Linked List code
+
+Copy the code in [BUGGYscoretrackerLL.cpp](BUGGYscoretrackerLL.cpp) and try to find and fix the bugs!
+
+## a lemonade stand with bugs
 
 ![lemonade stand](images/iu.jpg)
 
