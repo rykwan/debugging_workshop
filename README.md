@@ -1,5 +1,5 @@
 # Debugging Workshop
-Slides: [LA Debugging Workshop Presentation](https://tinyurl.com/ladebug)
+Slides: [LA Debugging Workshop Presentation](https://drive.google.com/open?id=1sKbkobKAuqU7uJ6QARbCh2wnxSp87SNFIRUlqQjrifk)
 
 ## Why do we need a debugger?
 We could just stare at the code, but this might take a long time (or possibly forever).
